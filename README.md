@@ -7,5 +7,5 @@ SQL, Pandas, Plotly/Dash.
 ## Co-authors:
 - [Lana Frenzel](https://github.com/lanafrenzel)
 - [Claire Briatore](https://github.com/clairebriatore)
-- [Prudensy Opit](https://github.com/prudensy-opit)
+- [Prudensy Opit](https://github.com/prudensyopit)
 - [Rama Al Homsi](https://github.com/rama-alhomsi)
