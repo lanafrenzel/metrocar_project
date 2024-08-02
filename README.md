@@ -3,3 +3,6 @@ This project focuses on optimizing Metrocar's customer journey by analyzing thei
 
 # Tools & Technologies:
 SQL, Pandas, Plotly/Dash.
+
+# Co-authors:
+Lana Frenzel, Claire Briatore, Prudensy Opit, Rama Al Homsi
