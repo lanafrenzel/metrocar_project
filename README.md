@@ -6,3 +6,9 @@ SQL, Pandas, Plotly/Dash.
 
 ## Co-authors:
 Lana Frenzel, Claire Briatore, Prudensy Opit, Rama Al Homsi
+
+## Visit our GitHub profiles:
+- [Lana Frenzel](https://github.com/lanafrenzel)
+- [Claire Briatore](https://github.com/claire-briatore)
+- [Prudensy Opit](https://github.com/prudensy-opit)
+- [Rama Al Homsi](https://github.com/rama-alhomsi)
