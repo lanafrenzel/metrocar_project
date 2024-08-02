@@ -5,7 +5,7 @@ This project focuses on optimizing Metrocar's customer journey by analyzing thei
 SQL, Pandas, Plotly/Dash.
 
 ## Co-authors:
-[Lana Frenzel](https://github.com/lanafrenzel)
-[Claire Briatore](https://github.com/clairebriatore)
-[Prudensy Opit](https://github.com/prudensy-opit)
-[Rama Al Homsi](https://github.com/rama-alhomsi)
+- [Lana Frenzel](https://github.com/lanafrenzel)
+- [Claire Briatore](https://github.com/clairebriatore)
+- [Prudensy Opit](https://github.com/prudensy-opit)
+- [Rama Al Homsi](https://github.com/rama-alhomsi)
