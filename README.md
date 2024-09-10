@@ -6,6 +6,8 @@ This repository contains a data analytics project focused on optimizing Metrocar
 
 This project was conducted for educational purposes, showcasing data research and analysis in both Python and SQL. It serves as a learning resource for applying data science techniques to real-world business problems.
 
+**Note:** To view interactive charts, please download the notebook and run it locally. This will ensure that all interactive features are properly rendered. 
+
 ## Project Structure
 
 - **Data Source**: The dataset includes ride requests, user information, and platform performance statistics across iOS, Android, and Web platforms. Data was processed using Python and popular data analysis libraries, along with SQL for data extraction and manipulation.
